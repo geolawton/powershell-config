@@ -17,6 +17,7 @@ Powershell config based on Scott Hanselman's walkthrough
 ```powershell
 Install-Module -Name Terminal-Icons -Repository PSGallery
 Install-Module PSReadLine -AllowPrerelease -Force
+Install-Module -Name z
 ```
 - In powershell run `code $PROFILE` and paste the contents of `./profile`
 - Restart Powershell. Enjoy

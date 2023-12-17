@@ -18,6 +18,6 @@ Powershell config based on Scott Hanselman's walkthrough
 Install-Module -Name Terminal-Icons -Repository PSGallery
 Install-Module PSReadLine -AllowPrerelease -Force
 ```
-- In powershell run `code $PROFILE` and paste the contents of `./profile.json`
+- In powershell run `code $PROFILE` and paste the contents of `./profile`
 - Restart Powershell. Enjoy
 ![image](https://github.com/geolawton/powershell-config/assets/90012201/e121f96c-1282-468e-8f5e-a72c69882d2b)

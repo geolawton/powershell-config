@@ -27,6 +27,16 @@
                 "splitMode": "duplicate"
             },
             "keys": "alt+shift+d"
+        },
+        {
+            "name": "New Ubuntu Pane",
+            "command":
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "profile": "{17bf3de4-5353-5709-bcf9-835bd952a95e}"
+            },
+            "keys": "alt+shift+1"
         }
     ],
     "copyFormatting": "none",
@@ -43,6 +53,10 @@
         "defaults": 
         {
             "colorScheme": "Solarized Dark",
+            "font": 
+            {
+                "face": "CaskaydiaCove NF"
+            },
             "opacity": 31,
             "useAcrylic": true
         },

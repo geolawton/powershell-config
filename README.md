@@ -21,4 +21,5 @@ Install-Module -Name z
 ```
 - In powershell run `code $PROFILE` and paste the contents of `./profile`
 - Restart Powershell. Enjoy
-![image](https://github.com/geolawton/powershell-config/assets/90012201/e121f96c-1282-468e-8f5e-a72c69882d2b)
+![image](https://github.com/geolawton/powershell-config/assets/90012201/bc4c37e0-defb-48e7-9e58-bcd6233b890f)
+
